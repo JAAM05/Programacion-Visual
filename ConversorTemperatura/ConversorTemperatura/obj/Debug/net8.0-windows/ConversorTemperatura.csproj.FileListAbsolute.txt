@@ -1,0 +1,16 @@
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0-windows\ConversorTemperatura.exe
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0-windows\ConversorTemperatura.deps.json
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0-windows\ConversorTemperatura.runtimeconfig.json
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0-windows\ConversorTemperatura.dll
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0-windows\ConversorTemperatura.pdb
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.Form1.resources
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.AssemblyInfo.cs
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.dll
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\refint\ConversorTemperatura.dll
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.pdb
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ConversorTemperatura.genruntimeconfig.cache
+C:\Users\arauz\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0-windows\ref\ConversorTemperatura.dll

@@ -1,0 +1,16 @@
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\bin\Debug\net8.0-windows\ContadorClic.exe
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\bin\Debug\net8.0-windows\ContadorClic.deps.json
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\bin\Debug\net8.0-windows\ContadorClic.runtimeconfig.json
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\bin\Debug\net8.0-windows\ContadorClic.dll
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\bin\Debug\net8.0-windows\ContadorClic.pdb
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.Form1.resources
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.AssemblyInfoInputs.cache
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.AssemblyInfo.cs
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.dll
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\refint\ContadorClic.dll
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.pdb
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ContadorClic.genruntimeconfig.cache
+C:\Users\arauz\source\repos\ContadorClic\ContadorClic\obj\Debug\net8.0-windows\ref\ContadorClic.dll
