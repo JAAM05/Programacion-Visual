@@ -1,0 +1,16 @@
+C:\Users\arauz\source\repos\IMC\IMC\bin\Debug\net8.0-windows\IMC.exe
+C:\Users\arauz\source\repos\IMC\IMC\bin\Debug\net8.0-windows\IMC.deps.json
+C:\Users\arauz\source\repos\IMC\IMC\bin\Debug\net8.0-windows\IMC.runtimeconfig.json
+C:\Users\arauz\source\repos\IMC\IMC\bin\Debug\net8.0-windows\IMC.dll
+C:\Users\arauz\source\repos\IMC\IMC\bin\Debug\net8.0-windows\IMC.pdb
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.Form1.resources
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.AssemblyInfoInputs.cache
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.AssemblyInfo.cs
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.dll
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\refint\IMC.dll
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.pdb
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\IMC.genruntimeconfig.cache
+C:\Users\arauz\source\repos\IMC\IMC\obj\Debug\net8.0-windows\ref\IMC.dll

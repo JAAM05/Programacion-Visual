@@ -1,0 +1,16 @@
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\bin\Debug\net8.0-windows\LoginSimple.exe
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\bin\Debug\net8.0-windows\LoginSimple.deps.json
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\bin\Debug\net8.0-windows\LoginSimple.runtimeconfig.json
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\bin\Debug\net8.0-windows\LoginSimple.dll
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\bin\Debug\net8.0-windows\LoginSimple.pdb
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.Form1.resources
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.AssemblyInfoInputs.cache
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.AssemblyInfo.cs
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.dll
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\refint\LoginSimple.dll
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.pdb
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\LoginSimple.genruntimeconfig.cache
+C:\Users\arauz\source\repos\LoginSimple\LoginSimple\obj\Debug\net8.0-windows\ref\LoginSimple.dll
