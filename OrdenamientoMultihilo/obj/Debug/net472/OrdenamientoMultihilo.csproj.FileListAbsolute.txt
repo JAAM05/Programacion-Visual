@@ -1,0 +1,10 @@
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.csproj.AssemblyReference.cache
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.AssemblyInfoInputs.cache
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.AssemblyInfo.cs
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\bin\Debug\net472\OrdenamientoMultihilo.exe.config
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\bin\Debug\net472\OrdenamientoMultihilo.exe
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\bin\Debug\net472\OrdenamientoMultihilo.pdb
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.exe
+C:\Users\arauz\source\repos\OrdenamientoMultihilo\obj\Debug\net472\OrdenamientoMultihilo.pdb
